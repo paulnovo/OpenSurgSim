@@ -1,3 +1,4 @@
+# CodeDocs config file
 [Doxygen]
 PROJECT_NAME = OpenSurgSim
 EXCLUDE_SYMBOLS = *::internal *SURGSIM_STATIC_REGISTRATION* *SURGSIM_REGISTER*
