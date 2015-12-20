@@ -1,5 +1,5 @@
 [Doxygen]
 PROJECT_NAME = OpenSurgSim
 EXCLUDE_SYMBOLS = *::internal *SURGSIM_STATIC_REGISTRATION* *SURGSIM_REGISTER*
-EXCLUDE = CMake/ Data/ Modules/ ThirdParty/ Tools/
+EXCLUDE = CMake/ Data/ Modules/ ThirdParty/ Tools/ SurgSim/Testing/
 EXCLUDE_PATTERNS = */UnitTests/* */RenderTests/* */PerformanceTests/*
