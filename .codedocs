@@ -6,6 +6,7 @@ EXCLUDE_SYMBOLS = *::internal \
                   YAML::*
 EXCLUDE = CMake/ \
           Data/ \
+          Examples/ \
           Modules/ \
           ThirdParty/ \
           Tools/ \
