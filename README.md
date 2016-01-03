@@ -1,3 +1,5 @@
+[![Documentation](https://codedocs.xyz/paulnovo/opensurgsim.svg)](https://codedocs.xyz/paulnovo/opensurgsim/)
+
 Welcome to the OpenSurgSim Project
 
 OpenSurgSim is an open-source project dedicated to real-time surgical
